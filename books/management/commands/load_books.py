@@ -1,6 +1,6 @@
 import requests
 from django.core.management.base import BaseCommand
-from books.models import Livro, Categoria, Editora, Autor
+from books.models import Livro
 
 class Command(BaseCommand):
     help = 'Load books from JSON server and save to database'
