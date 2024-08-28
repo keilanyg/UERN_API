@@ -1,0 +1,124 @@
+{
+    "livros": [
+        {
+            "id": "1",
+            "nome_livro": "Dom Casmurro",
+            "descricao_livro": "Órfão de pai e protegido do mundo pelo círculo doméstico e familiar, Bentinho, o narrador-personagem tinha uma vizinha desde sua infância, Capitu, com quem veio a se casar. Quando chega aos 54 anos, o atormentado protagonista decide escrever a história da sua vida, envolta por uma eterna controvérsia quanto à possível traição de sua esposa.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=UJHyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "2",
+            "nome_livro": "1984",
+            "descricao_livro": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "3",
+            "nome_livro": "O Pequeno Príncipe",
+            "descricao_livro": "Palavras de amor e sabedoria que cativam o coração e a alma fazem parte deste clássico que já conquistou milhões de leitores em todo o mundo. Durante a sua jornada por planetas diferentes e também pelo planeta Terra, o Pequeno Príncipe nos ensina lições valiosas sobre as escolhas, relações humanas e sentimentos como a solidão, a saudade, a amizade e a distância. Já há mais de sete décadas encantando as gerações de leitores, O Pequeno Príncipe é publicado agora pela Mafra Editorial, nesta edição especial, que conta com as ilustrações originais do autor e também com ilustrações inéditas. Esta é considerada uma das maiores obras literárias do século XX, sendo um dos livros mais traduzidos do mundo, para cerca de 253 idiomas. Foi publicada pela primeira vez no ano de 1942 nos Estados Unidos e, três anos depois, na França. Biografia do autor Antoine de Saint-Exupéry Antoine de Saint-Exupéry nasceu em uma família aristocrática, na data de 29 de junho de 1900, na cidade de Lyon, França. Escreveu romances de sucesso como Courrier sud (1929) e Vol de nuit (1931), obtendo grande êxito com o segundo romance, recebendo o Prêmio Fémina. Ele se tornou piloto de avião durante o serviço militar, tendo sido contratado pela Aéropostale. No início da Segunda Guerra Mundial, Antoine de Saint-Exupéry foi mobilizado pela Força Aérea para realizar voos de reconhecimento. Em 17 de junho de 1944, o autor desapareceu no mar depois de um voo para Córsega, seria um voo para uma missão de localização. Saint-Exupéry foi declarado oficialmente morte pela França no ano de 1948. Em 1998 foi encontrada sua pulseira, esclarecendo as causas de sua morte, seu avião havia sido abatido por uma aeronave da alemã.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=1D9KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "4",
+            "nome_livro": "O Senhor dos Anéis",
+            "descricao_livro": "A Sociedade do Anel O volume inicial de O Senhor dos Anéis, lançado originalmente em julho de 1954, foi o primeiro grande épico de fantasia moderno, conquistando milhões de leitores e se tornando o padrão de referência para todas as outras obras do gênero até hoje. A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real. A Sociedade do Anel começa no Condado, a região rural do oeste da Terra-média onde vivem os diminutos e pacatos hobbits. Bilbo Bolseiro, um dos raros aventureiros desse povo, cujas peripécias foram contadas em O Hobbit, resolve ir embora do Condado e deixa sua considerável herança nas mãos de seu jovem parente Frodo. O mais importante legado de Bilbo é o anel mágico que costumava usar para se tornar invisível. No entanto, o mago Gandalf, companheiro de aventuras do velho hobbit, revela a Frodo que o objeto é o Um Anel, a raiz do poder demoníaco de Sauron, o Senhor Sombrio, que deseja escravizar todos os povos da Terra-média. A única maneira de eliminar a ameaça de Sauron é destruir o Um Anel nas entranhas da própria montanha de fogo onde foi forjado. A revelação faz com que Frodo e seus companheiros hobbits Sam, Merry e Pippin deixem a segurança do Condado e iniciem uma perigosa jornada rumo ao leste. Ao lado de representantes dos outros Povos Livres que resistem ao Senhor Sombrio, eles formam a Sociedade do Anel. Alguém uma vez disse que o mundo dos leitores de língua inglesa se divide entre os que já leram O Senhor dos Anéis e os que um dia lerão o livro. Com esta nova tradução da obra, o fascínio dessa aventura atemporal ficará ainda mais evidente para os leitores brasileiros, tanto os que já conhecem a saga como os que estão prestes a descobrir seu encanto.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=R7KuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "5",
+            "nome_livro": "Harry Potter e a Pedra Filosofal",
+            "descricao_livro": "Quando virou o envelope, com a mão trêmula, Harry viu um lacre de cera púrpura com um brasão; um leão, uma águia, um texugo e uma cobra circulando uma grande letra \"H\". Harry Potter nunca havia ouvido falar de Hogwarts quando as cartas começaram a aparecer no capacho da Rua dos Alfeneiros, no 4. Escritos a tinta verde-esmeralda em pergaminho amarelado com um lacre de cera púrpura, as cartas eram rapidamente confiscadas por seus pavorosos tio e tia. Então, no aniversário de onze anos de Harry, um gigante com olhos que luziam como besouros negros chamado Rúbeo Hagrid surge com notícias surpreendentes: Harry Potter é um bruxo e tem uma vaga na Escola de Magia e Bruxaria de Hogwarts. Uma incrível aventura está para começar!",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51y4xSmm2xL.jpg"
+          },
+          {
+            "id": "6",
+            "nome_livro": "A Revolução dos Bichos",
+            "descricao_livro": "Edição especial com texto integral incluindo prefácios \"A liberdade de imprensa\" e \"Prefácio à edição ucraniana\". Nova tradução assinada por Alexandre Barbosa de Souza, ex-editor da Biblioteca Azul, Cosac Naify e Editora 34. Capa e artes dos brindes especialmente desenvolvidas pelo artista plástico Carlo Giovani. Publicado em 1945, A revolução dos bichos alçou o posto de um dos maiores clássicos da literatura moderna e projetou seu autor, George Orwell, como um dos mais influentes da história. Esta é uma fábula atual, que satiriza o totalitarismo, a tirania e a busca pelo poder. Às vésperas de sua morte, o velho porco Major reúne os animais de uma fazenda para compartilhar seu sonho de ver os bichos governando a si próprios, sem a opressão dos homens, em uma sociedade igualitária. Depois da morte de Major, a revolução é instaurada pelos porcos Snowball e Napoleon, mas a utopia não dura muito. Eleito pela revista Time como um dos cem melhores livros já publicados em língua inglesa, A revolução dos bichos é um alerta contra os perigos da corrupção humana até mesmo nos mais bem-intencionados projetos políticos. Após sua publicação, foi interpretado no Ocidente como uma crítica ao comunismo, fato negado pelo próprio Orwell, adepto do socialismo e avesso a manipulações políticas. Mais de sessenta anos depois de escrita, a obra mantém o vigor inabalável de uma alegoria sobre as fraquezas humanas que podem levar à derrocada das grandes revoluções políticas.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=UgUPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "7",
+            "nome_livro": "Orgulho e Preconceito",
+            "descricao_livro": "Orgulho e preconceito se passa na Inglaterra do século XVIII, na qual nos deparamos com as castas formadas por ricos, burgueses e nobres. A despeito dos cenários antigos descritos no livro, o leitor se deparará com um mundo moderno, pois, por detrás de todas as pompas, ritos sociais e regras de etiqueta muito comuns à época, mora soberana, na obra de Austen, a crítica ao caráter humano, sempre diversificado e atemporal. A autora, além de documentar o convívio das pessoas de sua época, denota, através de sua prosa, um controle imenso do humor e da ironia - figura de linguagem que exerce total influência de sua obra - e delata a hipocrisia, a superficialidade e os estereótipos que até hoje se mantém em voga em nossa sociedade.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=0dC5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "8",
+            "nome_livro": "O Hobbit",
+            "descricao_livro": "Edição com mapas, capa dura, fitilho, as ilustrações originais de J.R.R. Tolkien e um pôster de Valfenda exclusivo! Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos. Esta jornada fará Bilbo, Gandalf e 13 anãos atravessarem a Terra-média, passando por inúmeros perigos, como os imensos trols, as Montanhas Nevoentas infestadas de gobelins ou a muito antiga e misteriosa Trevamata, até chegarem (se conseguirem) na Montanha Solitária. Lá está um incalculável tesouro, mas há um porém. Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler para descobrir. Lançado em 1937, O Hobbit é um divisor de águas na literatura de fantasia mundial. Mais de 80 anos após a sua publicação, o livro que antecede os ocorridos em O Senhor dos Anéis continua arrebatando fãs de todas as idades, talvez pelo seu tom brincalhão com uma pitada de magia élfica, ou talvez porque J.R.R. Tolkien tenha escrito o melhor livro infantojuvenil de todos os tempos.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=2LeZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "9",
+            "nome_livro": "A Metamorfose",
+            "descricao_livro": "[Coleção clássicos eternos] Embora tenhamos escrito incontáveis obras desde o advento da escrita, há alguma arte que parece vencer o próprio fluxo do tempo, algumas histórias que se tornaram já mitologia por onde passaram, e que já foram lidas e encenadas pelas mentes de milhões e milhões de seres humanos. A 'Coleção clássicos eternos' reconhece a importância de trazer esta luz para ser refletida no maior número de espelhos possível, e cada um de nós é um espelho, e a luz foi criada para ser refletida. Assim sendo, temos o compromisso de trazer edições cuidadosamente elaboradas dos grandes gênios de outrora, por um preço acessível – principalmente por se tratar de material em domínio público. [Metamorfose, de Kafka] Um clássico da literatura mundial ou uma espécie de “pegadinha literária”, com o perdão do termo? De fato, Kafka foi genial por conseguir evitar, a todo momento, que o seu leitor conseguisse responder definitivamente a tal pergunta. É perfeitamente compreensível que muita gente não o tenha compreendido, e que alguns tenham até mesmo se sentido enojados pela temática da sua 'Metamorfose', mas quem poderá dizer que este também não era o seu objetivo? Quem poderá dar por certo que esta grande brincadeira literária, por vezes doce, por vezes irritante, mas sempre primorosamente elaborada em palavras, não era justamente o que tinha em mente quando se sentava para escrever? Seja como for, fato é que este pequeno conto, a sua obra mais lida, ainda será lida por muito tempo, em muitos cantos diversos e épocas futuras. Esperemos que até lá, mais gente se identifique com o Gregor Samsa que corre alegremente pelas paredes do que com o inseto esmagado pelo peso do mundo, incapaz de se arrastar sequer para baixo do sofá. O editor. *** [número de páginas] Equivalente a aproximadamente 70 págs. de um livro impresso (tamanho A5). [sumário, com índice ativo] - Coleção clássicos eternos - A Metamorfose (em 3 partes) - Epílogo - Sobre o autor [ uma edição Textos para Reflexão distribuída em parceria com a Bibliomundi - saiba mais em raph.com.br/tpr ]",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=TCHXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "10",
+            "nome_livro": "Crime e Castigo",
+            "descricao_livro": "Nova tradução direto do russo, a cargo de Rubens Figueiredo, de um dos romances mais importantes e influentes de todos os tempos. Crime e castigo é a obra mais célebre de Dostoiévski e um dos romances fundamentais da literatura ocidental. Escrita entre 1865 e 1866, quando Dostoiévski tinha 45 anos, foi publicada em partes na revista Rússki Viéstnik [O Mensageiro Russo], a mesma que vinha publicando, na época, o romance Guerra e paz, de Liev Tolstói. A ideia do livro surgiu quando Dostoiévski propôs a Katkóv, editor da revista, redigir um \"relato psicológico de um crime\". Na obra, Raskólnikov, um rapaz sombrio e orgulhoso, retraído mas também aberto à observação humana, precisa interromper seus estudos por falta de dinheiro. Devendo o aluguel à proprietária do cubículo desconfortável em que vive, ele se sente esmagado pela pobreza. Ao mesmo tempo, acha que está destinado a um grande futuro e, desdenhoso da moralidade comum, julga ter plenos direitos para cometer um crime – o que fará de uma maneira implacável. Por meio da trajetória de Raskólnikov, Dostoiévski apresenta um testemunho eloquente da pobreza, do alcoolismo e das condições degradantes que empurram para o abismo anônimos nas grandes cidades. O personagem tem a convicção de que fins humanitários podem justificar um crime, mas conviver com a culpa será um pesadelo permanente. Ainda assim, a tragédia não exclui a perspectiva de uma vida luminosa, e o castigo pelo crime vai lhe abrir um longo caminho em direção à verdade. Thomas Mann julgava Crime e castigo \"o maior romance policial de todos os tempos\". Como ele, a crítica é unânime em considerar a obra um marco da análise psicológica na ficção ocidental. Em nova tradução do russo por Rubens Figueiredo, o clássico ressurge em todo seu esplendor, sua originalidade e seu inesgotável caráter moral.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=nO2MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          }
+    ]
+}
