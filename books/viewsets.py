@@ -30,4 +30,4 @@ class LivroViewSet(ModelViewSet):
     queryset = Livro.objects.all()
     serializer_class = LivroSerializer
     search_fields = ('nome_livro',)
-    http_method_names = ['get', 'head', 'options']
+    #http_method_names = ['get', 'head', 'options']

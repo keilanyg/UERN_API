@@ -134,18 +134,6 @@
           },
           {
             "id": "12",
-            "nome_livro": "A Insustentável Leveza do Ser",
-            "descricao_livro": "Um clássico da literatura contemporânea em nova edição. Neste que é sem dúvida um dos romances mais importantes do século XX, ficção e filosofia se entrelaçam por meio da história de quatro adultos capazes de quase tudo para vivenciar o erotismo que desejam para si. Como limite, encontram um tempo histórico politicamente opressivo e o caráter enigmático da existência humana. Infidelidade, amor, compaixão, eterno retorno, acaso e arbítrio são alguns dos grandes temas que Kundera articula num romance de ideias e paixões, em que o leitor percorre conceitos filosóficos de braços dados com cada um dos personagens - Tereza, Tomas, Sabina e Franz - e acompanha suas histórias de vida com a profundidade de um estudo. O resultado é uma obra em tudo original, um clássico da literatura contemporânea.",
-            "data_cadastro": "2024-07-17",
-            "data_lancamento": "1994-08-29",
-            "quantidade": 5,
-            "categoria": 1,
-            "editora": 1,
-            "autor": 1,
-            "cover": "http://books.google.com/books/content?id=qaKfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-          },
-          {
-            "id": "13",
             "nome_livro": "O Alquimista",
             "descricao_livro": "um clássico contemporâneo sobre o poder transformador dos sonhos. Combinando espiritualidade, sabedoria e misticismo, O alquimista é uma inspiradora e emocionante história de autodescoberta que vem transformando a vida de milhões de leitores ao redor do mundo há mais de trinta anos.",
             "data_cadastro": "2024-07-17",
@@ -156,5 +144,6 @@
             "autor": 1,
             "cover": "http://books.google.com/books/content?id=bvYQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           }
+            
     ]
 }
